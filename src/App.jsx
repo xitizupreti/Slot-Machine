@@ -48,7 +48,7 @@ const App = () => {
         <SlotM />
         <SlotM />
         <br />
-        <button type="button" onClick="window.location.reload();">Play Again!</button>
+        <button type="button" onClick={()=>window.location.reload()}>Play Again!</button>
 
         </div>
         </>
