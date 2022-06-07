@@ -20,7 +20,7 @@
 
 .slotmachine{
   display: flex;
-  width: 30%;
+  width: 50%;
   border: 3px solid gray;
   line-height: 30px;
   flex-direction: column;
